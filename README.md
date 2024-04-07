@@ -29,16 +29,27 @@ The project directory is organized as follows:
 
 titanic-survival-prediction/
 ├── data/
+
 │ └── Titanic-Dataset.csv # Dataset provided by Afame Technologies
+
 ├── notebooks/
+
 │ └── Exploratory_Data_Analysis.ipynb # Jupyter notebook for data analysis
+
 ├── src/
+
 │ ├── data_preprocessing.py # Script for data preprocessing
+
 │ ├── model_training.py # Script for model training
+
 │ ├── model_evaluation.py # Script for model evaluation
+
 │ └── main.py # Main script to run the project
+
 ├── .gitignore
+
 ├── README.md
+
 └── requirements.txt
 
 ## Contributions
