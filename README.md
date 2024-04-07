@@ -10,7 +10,7 @@ The dataset used in this project was provided by Afame Technologies as part of a
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/sarun2003>/titanic-survival-prediction.git
+   git clone https://github.com/sarun2003/titanic-survival-prediction.git
    
 2. Navigate to the project directory:
    cd titanic-survival-prediction
